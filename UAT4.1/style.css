@@ -1,0 +1,40 @@
+    body {
+        margin: 0 auto;
+        font-size: 100%;
+        font-family: cursive;
+        background-size: cover;
+        background-color: white;
+        background: radial-gradient(ellipse at center, #2eacd4 0%, white 100%);
+    }
+    
+    .button {
+        background-color: chocolate;
+        width: 100px;
+        height: 30px;
+        border-radius: 14px;
+        border-color: crimson;
+        font-family: fantasy;
+    }
+    
+    h1 {
+        font-size: 36px;
+        font-style: italic;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: center
+    }
+    
+    .tdName {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-align: left;
+    }
+    
+    .tdRead {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: left;
+    }
+    
+    .mainTable {
+        border: "2";
+        border-style: double;
+        columns: 2;
+    }
